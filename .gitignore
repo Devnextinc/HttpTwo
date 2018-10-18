@@ -3,3 +3,6 @@ obj/
 *.userprefs
 node_modules/
 packages/
+/HttpTwo.HPack
+/.vs/HttpTwo
+*.user
